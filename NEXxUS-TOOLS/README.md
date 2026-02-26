@@ -68,7 +68,7 @@ A **terminal-based WiFi network intelligence & penetration testing toolkit** tha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NetVision.git
+https://github.com/NEXxUS-07/NEXXUS-WIFI-TOOLS
 cd NetVision
 ```
 
