@@ -69,7 +69,7 @@ A **terminal-based WiFi network intelligence & penetration testing toolkit** tha
 
 ```bash
 https://github.com/NEXxUS-07/NEXXUS-WIFI-TOOLS
-cd NetVision
+cd NEXXUS-WIFI-TOOLS
 ```
 
 ### 2. Install Dependencies
