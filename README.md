@@ -11,8 +11,6 @@
 
 A **terminal-based WiFi network intelligence & penetration testing toolkit** that monitors connected devices, captures traffic, intercepts credentials, maps destinations geographically, and provides offensive network capabilities — all in a beautiful, live-updating terminal UI with a hacker/cyberpunk aesthetic.
 
-> ⚠️ **Disclaimer:** This tool is for **educational and authorized security testing purposes only**. Only use on networks you own or have explicit permission to test. Unauthorized network interception is illegal.
-
 ---
 
 ## ✨ Features
