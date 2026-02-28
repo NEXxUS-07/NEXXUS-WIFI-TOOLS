@@ -66,14 +66,14 @@ A **terminal-based WiFi network intelligence & penetration testing toolkit** tha
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/NEXxUS-07/NEXXUS-WIFI-TOOLS
+git clone https://github.com/NEXxUS-07/NEXXUS-WIFI-TOOLS
 cd NEXXUS-WIFI-TOOLS
 ```
 
 ### 2. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt(OPTIONAL)
 ```
 
 ### 3. Run the Dashboard
